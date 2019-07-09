@@ -1,4 +1,4 @@
-# CSE4110_01_Database_project
+# Database_project
 2018 Sogang Univ Database project
 
 # Prj1 - Sogang Delivery
